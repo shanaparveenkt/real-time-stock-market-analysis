@@ -280,5 +280,3 @@ This project provides a strong foundation for advanced stock market prediction s
 
 ## Shana Parveen KT
 
-PG Diploma in Data Science
-Data Analytics Enthusiast
