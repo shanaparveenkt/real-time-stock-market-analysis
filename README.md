@@ -77,7 +77,7 @@ This project helps in understanding:
 ```bash
 Real-Time-Stock-Market-Analysis/
 │
-├── stock_market_analysis.ipynb
+├── real_time_stock_market_analysis_and_predidiction.ipynb
 ├── README.md
 ├── requirements.txt
 
