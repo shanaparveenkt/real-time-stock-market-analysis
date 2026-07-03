@@ -198,7 +198,7 @@ Compares:
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Real-Time-Stock-Market-Analysis.git
+git clone https://github.com/shanaparveenkt/Real-Time-Stock-Market-Analysis.git
 ```
 
 Move into project folder:
